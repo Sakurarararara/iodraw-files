@@ -20,16 +20,16 @@
           <mxGeometry x="120" y="450" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-6" value="延时等待温湿度转换" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="101.5" y="550" width="174" height="49" as="geometry" />
+          <mxGeometry x="95" y="550" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-7" value="数据位判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="88.5" y="660" width="200" height="100" as="geometry" />
+          <mxGeometry x="81" y="650" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-8" value="发出读操作" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="133.5" y="810" width="110" height="49" as="geometry" />
+          <mxGeometry x="127" y="790" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-9" value="合并, 算出温湿度数值" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="96" y="900.5" width="185" height="49" as="geometry" />
+          <mxGeometry x="90.5" y="870" width="185" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="138" y="949.5" as="geometry" />

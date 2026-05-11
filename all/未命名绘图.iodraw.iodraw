@@ -69,13 +69,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tUMAIfdiiLna2v-GMcnw-18" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.5;entryY=0.99;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-6" target="tUMAIfdiiLna2v-GMcnw-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="188" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-7" target="tUMAIfdiiLna2v-GMcnw-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -91,14 +84,6 @@
         <mxCell id="tUMAIfdiiLna2v-GMcnw-21" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-9" target="tUMAIfdiiLna2v-GMcnw-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tUMAIfdiiLna2v-GMcnw-22" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=0;entryX=0.72;entryY=0.99;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-9" target="tUMAIfdiiLna2v-GMcnw-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="275" y="1001" />
-              <mxPoint x="275" y="500" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-10" target="tUMAIfdiiLna2v-GMcnw-11">

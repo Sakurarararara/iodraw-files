@@ -81,6 +81,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CexpNIQrSGJLgMi5OGzi-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CexpNIQrSGJLgMi5OGzi-60" target="CexpNIQrSGJLgMi5OGzi-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CexpNIQrSGJLgMi5OGzi-60" value="创建模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

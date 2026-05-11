@@ -8,16 +8,16 @@
           <mxGeometry x="332.5" y="120" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-2" value="STM32 配置引脚" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="273" y="200" width="174" height="49" as="geometry" />
+          <mxGeometry x="252.5" y="200" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-3" value="定时器初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="282" y="290" width="156" height="49" as="geometry" />
+          <mxGeometry x="261.5" y="290" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-4" value="开始定时" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="298" y="390" width="124" height="49" as="geometry" />
+          <mxGeometry x="277" y="400" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-5" value="定时 100ms" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="289" y="480" width="142" height="49" as="geometry" />
+          <mxGeometry x="268" y="480" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-6" value="20MS 一个周期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="257" y="570" width="165" height="49" as="geometry" />

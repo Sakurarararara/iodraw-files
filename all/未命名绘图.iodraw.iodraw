@@ -29,11 +29,6 @@
             <mxPoint x="146" y="168" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRSCbzw0R-LoxsTMWNUN-12" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="YRSCbzw0R-LoxsTMWNUN-4" target="YRSCbzw0R-LoxsTMWNUN-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YRSCbzw0R-LoxsTMWNUN-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="YRSCbzw0R-LoxsTMWNUN-5" target="YRSCbzw0R-LoxsTMWNUN-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -80,6 +75,12 @@
         </mxCell>
         <mxCell id="YRSCbzw0R-LoxsTMWNUN-27" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YRSCbzw0R-LoxsTMWNUN-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YRSCbzw0R-LoxsTMWNUN-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

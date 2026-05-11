@@ -20,10 +20,10 @@
           <mxGeometry x="151.5" y="400" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-27" value="语音播报" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="162" y="560" width="94" height="49" as="geometry" />
+          <mxGeometry x="160" y="570" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-29" value="结束" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="162" y="660" width="92" height="49" as="geometry" />
+          <mxGeometry x="160" y="660" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-23" target="z0D_otANrjCMrWJbwVpO-24">
           <mxGeometry relative="1" as="geometry">
@@ -47,7 +47,7 @@
             <mxPoint x="370" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="z0D_otANrjCMrWJbwVpO-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-27" target="z0D_otANrjCMrWJbwVpO-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />

@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z0D_otANrjCMrWJbwVpO-2" value="开始检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="z0D_otANrjCMrWJbwVpO-2" value="开始检测" style="whiteSpace=wrap;strokeWidth=2;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="124" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-3" value="传感器采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -35,10 +35,16 @@
         <mxCell id="z0D_otANrjCMrWJbwVpO-17" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="184.5" y="620" width="105.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-16">
+        <mxCell id="z0D_otANrjCMrWJbwVpO-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-16" target="z0D_otANrjCMrWJbwVpO-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="120" as="sourcePoint" />
             <mxPoint x="440" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z0D_otANrjCMrWJbwVpO-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="310" as="sourcePoint" />
+            <mxPoint x="500" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

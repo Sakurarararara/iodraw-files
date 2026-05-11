@@ -23,7 +23,7 @@
           <mxGeometry x="90.75" y="350" width="182.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-7" value="设置端口号和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="96.25" y="450" width="171.5" height="30" as="geometry" />
+          <mxGeometry x="96.25" y="460" width="171.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-8" value="建立手机端连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="96.25" y="520" width="171.5" height="30" as="geometry" />
@@ -77,6 +77,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-6" target="tUMAIfdiiLna2v-GMcnw-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

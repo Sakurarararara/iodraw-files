@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z0D_otANrjCMrWJbwVpO-22" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="z0D_otANrjCMrWJbwVpO-22" value="开始" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="163" y="20" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-23" value="STM32 配置 LD3322 串口引脚" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">

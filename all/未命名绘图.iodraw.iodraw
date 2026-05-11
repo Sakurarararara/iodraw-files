@@ -16,8 +16,8 @@
         <mxCell id="CexpNIQrSGJLgMi5OGzi-44" value="选择型号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="74.5" y="1380" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="CexpNIQrSGJLgMi5OGzi-45" value="配置指令，设置为串口通信" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="26" y="1549" width="222" height="49" as="geometry" />
+        <mxCell id="CexpNIQrSGJLgMi5OGzi-45" value="配置指令，设置为串口通信" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="25" y="1470" width="222" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-46" value="自定义唤醒词" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="59" y="1647" width="156" height="49" as="geometry" />

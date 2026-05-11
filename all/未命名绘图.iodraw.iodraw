@@ -17,10 +17,10 @@
           <mxGeometry x="127" y="427.5" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-5" value="发出转换命令" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="127" y="526.5" width="126" height="49" as="geometry" />
+          <mxGeometry x="124" y="526.5" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-6" value="延时等待温湿度转换" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="103.5" y="629" width="174" height="49" as="geometry" />
+          <mxGeometry x="98" y="620" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-7" value="数据位判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="126" y="723.5" width="129" height="129" as="geometry" />

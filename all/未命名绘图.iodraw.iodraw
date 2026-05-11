@@ -32,10 +32,10 @@
           <mxGeometry x="119" y="600" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-10" value="发送完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="141" y="1244" width="124" height="49" as="geometry" />
+          <mxGeometry x="126.75" y="710" width="123.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-11" value="返回" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="157" y="1342" width="92" height="49" as="geometry" />
+          <mxGeometry x="148.25" y="780" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-1" target="tUMAIfdiiLna2v-GMcnw-2">
           <mxGeometry relative="1" as="geometry">
@@ -58,11 +58,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-7" target="tUMAIfdiiLna2v-GMcnw-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tUMAIfdiiLna2v-GMcnw-21" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-9" target="tUMAIfdiiLna2v-GMcnw-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>

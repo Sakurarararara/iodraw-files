@@ -14,16 +14,13 @@
           <mxGeometry x="94.5" y="230" width="229" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-25" value="进行语音识别" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="71" y="334" width="126" height="49" as="geometry" />
+          <mxGeometry x="145" y="320" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-26" value="识别成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="32" y="432" width="113" height="113" as="geometry" />
+          <mxGeometry x="152.5" y="400" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-27" value="语音播报" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="22" y="618" width="94" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-28" value="否" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="171" y="618" width="46" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-29" value="返回" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="163" y="716" width="92" height="49" as="geometry" />
@@ -36,35 +33,6 @@
         <mxCell id="z0D_otANrjCMrWJbwVpO-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-24" target="z0D_otANrjCMrWJbwVpO-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-25" target="z0D_otANrjCMrWJbwVpO-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="89" y="407" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-34" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.39;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-26" target="z0D_otANrjCMrWJbwVpO-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="69" y="581" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-35" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.11;entryY=-0.01;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-26" target="z0D_otANrjCMrWJbwVpO-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="149" y="581" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=-0.01;entryX=0.81;entryY=0.99;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-28" target="z0D_otANrjCMrWJbwVpO-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="213" y="581" />
-              <mxPoint x="213" y="407" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-27" target="z0D_otANrjCMrWJbwVpO-29">

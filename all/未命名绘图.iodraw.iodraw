@@ -34,8 +34,8 @@
         <mxCell id="tUMAIfdiiLna2v-GMcnw-10" value="发送完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="126.75" y="710" width="123.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tUMAIfdiiLna2v-GMcnw-11" value="返回" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="148.25" y="780" width="92" height="49" as="geometry" />
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="148.25" y="780" width="91.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-1" target="tUMAIfdiiLna2v-GMcnw-2">
           <mxGeometry relative="1" as="geometry">

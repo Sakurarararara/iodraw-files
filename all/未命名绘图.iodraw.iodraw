@@ -17,7 +17,7 @@
           <mxGeometry x="64" y="230" width="236" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-5" value="开启通信方式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="113" y="300" width="147" height="30" as="geometry" />
+          <mxGeometry x="108.5" y="290" width="147" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-6" value="是否设置为 AP 热点模式？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="97.5" y="350" width="182.5" height="70" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="tUMAIfdiiLna2v-GMcnw-8" value="建立手机端连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="108.5" y="530" width="171.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tUMAIfdiiLna2v-GMcnw-9" value="是否发送数据" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-9" value="是否发送数据？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="119" y="600" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-10" value="发送完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">

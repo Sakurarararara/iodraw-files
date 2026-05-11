@@ -8,7 +8,7 @@
           <mxGeometry x="69" y="20" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L35ma6BKFaQTOPxdjbag-2" value="是否需要继电器闭合" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="141" width="193" height="193" as="geometry" />
+          <mxGeometry x="20" y="141" width="350" height="109" as="geometry" />
         </mxCell>
         <mxCell id="L35ma6BKFaQTOPxdjbag-3" value="单片机输出高电平" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="22" y="407" width="188" height="49" as="geometry" />
@@ -30,7 +30,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L35ma6BKFaQTOPxdjbag-7" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="L35ma6BKFaQTOPxdjbag-2" target="L35ma6BKFaQTOPxdjbag-3">
+        <mxCell id="L35ma6BKFaQTOPxdjbag-7" value="Y" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="L35ma6BKFaQTOPxdjbag-2" target="L35ma6BKFaQTOPxdjbag-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>

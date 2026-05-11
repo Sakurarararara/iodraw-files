@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

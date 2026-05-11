@@ -13,7 +13,7 @@
         <mxCell id="z0D_otANrjCMrWJbwVpO-24" value="配置串口通信波特率为 9600" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="94.5" y="230" width="229" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-25" value="进行语音识别" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="z0D_otANrjCMrWJbwVpO-25" value="进行语音识别" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="145" y="320" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-26" value="识别成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">

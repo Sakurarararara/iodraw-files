@@ -26,10 +26,10 @@
           <mxGeometry x="88.5" y="660" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-8" value="发出读操作" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="138" y="820" width="110" height="49" as="geometry" />
+          <mxGeometry x="133.5" y="810" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-9" value="合并, 算出温湿度数值" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="100" y="925" width="185" height="49" as="geometry" />
+          <mxGeometry x="96" y="900.5" width="185" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="138" y="949.5" as="geometry" />
@@ -83,10 +83,16 @@
             <mxPoint x="180" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CexpNIQrSGJLgMi5OGzi-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CexpNIQrSGJLgMi5OGzi-7">
+        <mxCell id="CexpNIQrSGJLgMi5OGzi-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CexpNIQrSGJLgMi5OGzi-7" target="CexpNIQrSGJLgMi5OGzi-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="720" as="sourcePoint" />
             <mxPoint x="440" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CexpNIQrSGJLgMi5OGzi-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CexpNIQrSGJLgMi5OGzi-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="820" as="sourcePoint" />
+            <mxPoint x="440" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

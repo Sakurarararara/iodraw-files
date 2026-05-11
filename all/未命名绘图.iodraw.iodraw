@@ -14,7 +14,7 @@
           <mxGeometry x="174.5" y="222" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-4" value="是否感应到" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="182.5" y="344" width="129" height="129" as="geometry" />
+          <mxGeometry x="180" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-5" value="输出低电平" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="118" y="545" width="140" height="49" as="geometry" />
@@ -28,20 +28,6 @@
         <mxCell id="z0D_otANrjCMrWJbwVpO-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-2" target="z0D_otANrjCMrWJbwVpO-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.46;exitY=1;entryX=0.42;entryY=0;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-3" target="z0D_otANrjCMrWJbwVpO-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="173" y="307" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-11" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0.62;entryY=1;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-4" target="z0D_otANrjCMrWJbwVpO-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="230" y="307" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-12" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-4" target="z0D_otANrjCMrWJbwVpO-5">

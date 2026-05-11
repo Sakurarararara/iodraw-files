@@ -20,7 +20,7 @@
           <mxGeometry x="108.5" y="290" width="147" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-6" value="是否设置为 AP 热点模式？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="97.5" y="350" width="182.5" height="70" as="geometry" />
+          <mxGeometry x="90.75" y="340" width="182.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-7" value="设置端口号和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="108.5" y="460" width="171.5" height="30" as="geometry" />

@@ -13,8 +13,8 @@
         <mxCell id="L35ma6BKFaQTOPxdjbag-3" value="单片机输出高电平" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="22" y="407" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="L35ma6BKFaQTOPxdjbag-4" value="返回" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="85" y="505" width="62" height="49" as="geometry" />
+        <mxCell id="L35ma6BKFaQTOPxdjbag-4" value="结束" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="85" y="505" width="65" height="35" as="geometry" />
         </mxCell>
         <mxCell id="L35ma6BKFaQTOPxdjbag-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="1" source="L35ma6BKFaQTOPxdjbag-3" target="L35ma6BKFaQTOPxdjbag-4">
           <mxGeometry relative="1" as="geometry">

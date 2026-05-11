@@ -8,13 +8,13 @@
           <mxGeometry x="193" y="40" width="103" height="34" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-2" value="开始检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="126" y="124" width="124" height="49" as="geometry" />
+          <mxGeometry x="182.5" y="124" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-3" value="传感器采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="118" y="222" width="140" height="49" as="geometry" />
+          <mxGeometry x="174.5" y="222" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-4" value="是否感应到" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="124" y="344" width="129" height="129" as="geometry" />
+          <mxGeometry x="182.5" y="344" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-5" value="输出低电平" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="118" y="545" width="140" height="49" as="geometry" />
@@ -58,14 +58,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="188" y="717" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=0.01;entryX=0.72;entryY=0.99;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-7" target="z0D_otANrjCMrWJbwVpO-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="301" y="717" />
-              <mxPoint x="301" y="99" />
             </Array>
           </mxGeometry>
         </mxCell>

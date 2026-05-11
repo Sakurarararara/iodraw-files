@@ -14,10 +14,10 @@
           <mxGeometry x="92" y="210" width="180" height="99" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-4" value="发出扫描命令" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="125.5" y="350" width="126" height="49" as="geometry" />
+          <mxGeometry x="120" y="340" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-5" value="发出转换命令" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="125.5" y="450" width="126" height="49" as="geometry" />
+          <mxGeometry x="120" y="450" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-6" value="延时等待温湿度转换" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="101.5" y="550" width="174" height="49" as="geometry" />

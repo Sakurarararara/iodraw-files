@@ -32,7 +32,12 @@
           <mxGeometry x="195" y="720" width="123" height="123" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-10" value="停止" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="194" y="891" width="92" height="49" as="geometry" />
+          <mxGeometry x="120.5" y="910" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="xqCbraoSKVbHX2igorZQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xqCbraoSKVbHX2igorZQ-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="1014" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-11" value="返回" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="212.5" y="980" width="55" height="34" as="geometry" />
@@ -102,7 +107,7 @@
         <mxCell id="xqCbraoSKVbHX2igorZQ-29" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xqCbraoSKVbHX2igorZQ-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="720" as="sourcePoint" />
-            <mxPoint x="250" y="622" as="targetPoint" />
+            <mxPoint x="260" y="622" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xqCbraoSKVbHX2igorZQ-9">

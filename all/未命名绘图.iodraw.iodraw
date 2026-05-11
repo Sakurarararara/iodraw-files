@@ -17,13 +17,13 @@
           <mxGeometry x="180" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-5" value="输出低电平" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="118" y="545" width="140" height="49" as="geometry" />
+          <mxGeometry x="170" y="440" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-6" value="传输给单片机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="110" y="644" width="156" height="49" as="geometry" />
+          <mxGeometry x="162" y="536" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-7" value="返回" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="217" y="742" width="55" height="34" as="geometry" />
+          <mxGeometry x="217" y="640" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-2" target="z0D_otANrjCMrWJbwVpO-3">
           <mxGeometry relative="1" as="geometry">
@@ -38,13 +38,6 @@
         <mxCell id="z0D_otANrjCMrWJbwVpO-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-5" target="z0D_otANrjCMrWJbwVpO-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.09;entryY=0.01;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-6" target="z0D_otANrjCMrWJbwVpO-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="188" y="717" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>

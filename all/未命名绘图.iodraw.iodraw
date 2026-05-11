@@ -23,7 +23,7 @@
           <mxGeometry x="101.5" y="550" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-7" value="数据位判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="90" y="660" width="200" height="100" as="geometry" />
+          <mxGeometry x="88.5" y="660" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-8" value="发出读操作" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="138" y="820" width="110" height="49" as="geometry" />
@@ -57,6 +57,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="190" y="674.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CexpNIQrSGJLgMi5OGzi-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="220" as="sourcePoint" />
+            <mxPoint x="440" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

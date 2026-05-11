@@ -11,7 +11,7 @@
           <mxGeometry x="6.5" y="180" width="219" height="70" as="geometry" />
         </mxCell>
         <mxCell id="L35ma6BKFaQTOPxdjbag-3" value="单片机输出高电平" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="22" y="407" width="188" height="49" as="geometry" />
+          <mxGeometry x="33" y="407" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L35ma6BKFaQTOPxdjbag-4" value="结束" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="85" y="505" width="65" height="35" as="geometry" />

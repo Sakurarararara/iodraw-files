@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xqCbraoSKVbHX2igorZQ-1" value="开始" style="rounded=0;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="311.5" y="120" width="55" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-2" value="STM32 配置引脚" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="252.5" y="200" width="174" height="49" as="geometry" />
         </mxCell>
@@ -137,7 +134,7 @@
         <mxCell id="xqCbraoSKVbHX2igorZQ-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="390" as="sourcePoint" />
-            <mxPoint x="440" y="640" as="targetPoint" />
+            <mxPoint x="340" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

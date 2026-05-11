@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="217" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YRSCbzw0R-LoxsTMWNUN-4" value="是否感应到人员" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="66" y="339" width="154" height="161" as="geometry" />
+          <mxGeometry x="48.379999999999995" y="339" width="190" height="161" as="geometry" />
         </mxCell>
         <mxCell id="YRSCbzw0R-LoxsTMWNUN-5" value="PB9引脚输出低电平" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="47" y="572" width="198" height="49" as="geometry" />

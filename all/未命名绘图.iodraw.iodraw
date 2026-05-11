@@ -19,8 +19,8 @@
         <mxCell id="z0D_otANrjCMrWJbwVpO-26" value="识别成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="152.5" y="400" width="113" height="113" as="geometry" />
         </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-27" value="语音播报" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="22" y="618" width="94" height="49" as="geometry" />
+        <mxCell id="z0D_otANrjCMrWJbwVpO-27" value="语音播报" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="163" y="560" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-29" value="返回" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="163" y="716" width="92" height="49" as="geometry" />

@@ -8,7 +8,7 @@
           <mxGeometry x="69" y="20" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L35ma6BKFaQTOPxdjbag-2" value="是否需要继电器闭合" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-59" y="180" width="350" height="109" as="geometry" />
+          <mxGeometry x="-59" y="180" width="299" height="70" as="geometry" />
         </mxCell>
         <mxCell id="L35ma6BKFaQTOPxdjbag-3" value="单片机输出高电平" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="22" y="407" width="188" height="49" as="geometry" />

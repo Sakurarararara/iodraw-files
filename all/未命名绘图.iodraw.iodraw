@@ -26,10 +26,10 @@
           <mxGeometry x="126" y="723.5" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-8" value="发出读操作" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="225" y="925.5" width="110" height="49" as="geometry" />
+          <mxGeometry x="148" y="910" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-9" value="合并, 算出温湿度数值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="150" y="1050" width="185" height="49" as="geometry" />
+          <mxGeometry x="98" y="1040" width="185" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="138" y="949.5" as="geometry" />
@@ -57,42 +57,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="190" y="674.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CexpNIQrSGJLgMi5OGzi-18" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.24;exitY=1;entryX=-Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="1" source="CexpNIQrSGJLgMi5OGzi-7" target="CexpNIQrSGJLgMi5OGzi-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="138" y="888.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CexpNIQrSGJLgMi5OGzi-19" value="否" style="curved=1;startArrow=none;endArrow=none;exitX=-Infinity;exitY=Infinity;entryX=-Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="CexpNIQrSGJLgMi5OGzi-10" target="CexpNIQrSGJLgMi5OGzi-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="138" y="1010.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CexpNIQrSGJLgMi5OGzi-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-Infinity;exitY=Infinity;entryX=0.5;entryY=1;rounded=0;" edge="1" parent="1" source="CexpNIQrSGJLgMi5OGzi-11" target="CexpNIQrSGJLgMi5OGzi-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="190" y="1010.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CexpNIQrSGJLgMi5OGzi-21" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="CexpNIQrSGJLgMi5OGzi-7" target="CexpNIQrSGJLgMi5OGzi-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="888.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CexpNIQrSGJLgMi5OGzi-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.4;entryY=0;rounded=0;" edge="1" parent="1" source="CexpNIQrSGJLgMi5OGzi-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="1010.5" />
-            </Array>
-            <mxPoint x="307" y="1046.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -11,7 +11,7 @@
           <mxGeometry x="117" y="119" width="129" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-3" value="应答脉冲?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="127" y="200" width="119" height="119" as="geometry" />
+          <mxGeometry x="100" y="200" width="180" height="119" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-4" value="发出扫描命令" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="125.5" y="350" width="126" height="49" as="geometry" />
@@ -23,13 +23,13 @@
           <mxGeometry x="101.5" y="550" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-7" value="数据位判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="125.5" y="660" width="129" height="129" as="geometry" />
+          <mxGeometry x="123.5" y="660" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-8" value="发出读操作" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="123.5" y="830" width="110" height="49" as="geometry" />
+          <mxGeometry x="138" y="820" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-9" value="合并, 算出温湿度数值" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="84" y="925" width="185" height="49" as="geometry" />
+          <mxGeometry x="100" y="925" width="185" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="138" y="949.5" as="geometry" />

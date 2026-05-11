@@ -24,11 +24,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-12" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-4" target="z0D_otANrjCMrWJbwVpO-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-5" target="z0D_otANrjCMrWJbwVpO-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -39,6 +34,12 @@
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-17" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="184.5" y="620" width="105.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_otANrjCMrWJbwVpO-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="120" as="sourcePoint" />
+            <mxPoint x="440" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

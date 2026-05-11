@@ -11,10 +11,10 @@
           <mxGeometry x="153" y="104" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-3" value="定时器初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="162" y="202" width="156" height="49" as="geometry" />
+          <mxGeometry x="45" y="190" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-4" value="开始定时" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="178" y="301" width="124" height="49" as="geometry" />
+          <mxGeometry x="61" y="290" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-5" value="定时 100ms" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="31" y="400" width="142" height="49" as="geometry" />
@@ -45,13 +45,6 @@
         <mxCell id="xqCbraoSKVbHX2igorZQ-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xqCbraoSKVbHX2igorZQ-3" target="xqCbraoSKVbHX2igorZQ-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xqCbraoSKVbHX2igorZQ-4" target="xqCbraoSKVbHX2igorZQ-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="102" y="375" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="xqCbraoSKVbHX2igorZQ-5" target="xqCbraoSKVbHX2igorZQ-6">

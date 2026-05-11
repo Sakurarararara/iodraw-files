@@ -17,7 +17,7 @@
           <mxGeometry x="298" y="390" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-5" value="定时 100ms" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="31" y="400" width="142" height="49" as="geometry" />
+          <mxGeometry x="289" y="480" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-6" value="20MS 一个周期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="498" width="165" height="49" as="geometry" />

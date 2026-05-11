@@ -26,16 +26,16 @@
           <mxGeometry x="96.25" y="450" width="171.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-8" value="建立手机端连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="108.5" y="530" width="171.5" height="30" as="geometry" />
+          <mxGeometry x="96.25" y="520" width="171.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-9" value="是否发送数据？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="119" y="600" width="151" height="60" as="geometry" />
+          <mxGeometry x="106.5" y="580" width="151" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-10" value="发送完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="126.75" y="710" width="123.25" height="30" as="geometry" />
+          <mxGeometry x="120.38" y="680" width="123.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="148.25" y="780" width="91.75" height="30" as="geometry" />
+          <mxGeometry x="136.13" y="750" width="91.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-1" target="tUMAIfdiiLna2v-GMcnw-2">
           <mxGeometry relative="1" as="geometry">

@@ -26,10 +26,10 @@
           <mxGeometry x="57.5" y="1630" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-48" value="选择控制输出语音指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="27" y="1845" width="220" height="49" as="geometry" />
+          <mxGeometry x="27" y="1720" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="CexpNIQrSGJLgMi5OGzi-49" value="生产 SDK (固件包)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="58" y="1943" width="158" height="49" as="geometry" />
+        <mxCell id="CexpNIQrSGJLgMi5OGzi-49" value="生产 SDK (固件包)" style="rounded=0;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="59" y="1810" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-50" value="下载烧录到 LD3322 模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="2042" width="233" height="49" as="geometry" />

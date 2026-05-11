@@ -26,10 +26,10 @@
           <mxGeometry x="40" y="597" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-8" value="正传 90 度" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="70" y="696" width="123" height="123" as="geometry" />
+          <mxGeometry x="41" y="720" width="123" height="123" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-9" value="反传 90 度" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="278" y="696" width="123" height="123" as="geometry" />
+          <mxGeometry x="195" y="720" width="123" height="123" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-10" value="停止" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="194" y="891" width="92" height="49" as="geometry" />
@@ -64,13 +64,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.05;entryY=0;rounded=0;" edge="1" parent="1" source="xqCbraoSKVbHX2igorZQ-7" target="xqCbraoSKVbHX2igorZQ-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="263" y="671" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-20" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=0;entryX=0.5;entryY=0.99;rounded=0;" edge="1" parent="1" source="xqCbraoSKVbHX2igorZQ-8" target="xqCbraoSKVbHX2igorZQ-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -100,7 +93,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="xqCbraoSKVbHX2igorZQ-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqCbraoSKVbHX2igorZQ-7" target="xqCbraoSKVbHX2igorZQ-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="720" as="sourcePoint" />
             <mxPoint x="440" y="670" as="targetPoint" />

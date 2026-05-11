@@ -140,14 +140,14 @@
         <mxCell id="xqCbraoSKVbHX2igorZQ-44" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="120" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="xqCbraoSKVbHX2igorZQ-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqCbraoSKVbHX2igorZQ-44" target="xqCbraoSKVbHX2igorZQ-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="390" as="sourcePoint" />
-            <mxPoint x="440" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="510" y="270" />
-            </Array>
+            <mxPoint x="480" y="270" as="sourcePoint" />
+            <mxPoint x="530" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xqCbraoSKVbHX2igorZQ-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

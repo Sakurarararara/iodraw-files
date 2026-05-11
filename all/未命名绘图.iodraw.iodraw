@@ -10,7 +10,7 @@
         <mxCell id="mHGTo4go1XD2bUr0H8cB-3" value="TFT 液晶 ST7735 初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="77" y="220" width="232" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="mHGTo4go1XD2bUr0H8cB-4" value="液晶清屏结束" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mHGTo4go1XD2bUr0H8cB-4" value="液晶清屏结束?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="311" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="mHGTo4go1XD2bUr0H8cB-5" value="显示字体/图片位置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">

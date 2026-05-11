@@ -29,7 +29,7 @@
           <mxGeometry x="116.5" y="740" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-9" value="是否发送数据" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="130" y="820" width="145" height="145" as="geometry" />
+          <mxGeometry x="130" y="820" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-10" value="发送完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="141" y="1244" width="124" height="49" as="geometry" />
@@ -57,21 +57,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tUMAIfdiiLna2v-GMcnw-17" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-6" target="tUMAIfdiiLna2v-GMcnw-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-7" target="tUMAIfdiiLna2v-GMcnw-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tUMAIfdiiLna2v-GMcnw-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.13;entryY=0;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-8" target="tUMAIfdiiLna2v-GMcnw-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="130" y="1001" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-21" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-9" target="tUMAIfdiiLna2v-GMcnw-10">

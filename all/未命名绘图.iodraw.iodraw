@@ -1,12 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="q3IejtKZqBR1txpS2oEZ">
-    <mxGraphModel dx="1173" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z0D_otANrjCMrWJbwVpO-1" value="子程序入口" style="rounded=0;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="40" width="103" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-2" value="开始检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="124" width="124" height="49" as="geometry" />
         </mxCell>
@@ -21,9 +18,6 @@
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-6" value="传输给单片机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="162" y="536" width="156" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-7" value="返回" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="212.5" y="630" width="77.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="z0D_otANrjCMrWJbwVpO-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="z0D_otANrjCMrWJbwVpO-2" target="z0D_otANrjCMrWJbwVpO-3">
           <mxGeometry relative="1" as="geometry">
@@ -40,8 +34,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z0D_otANrjCMrWJbwVpO-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-40" width="120" height="60" as="geometry" />
+        <mxCell id="z0D_otANrjCMrWJbwVpO-16" value="子程序入口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189.5" y="50" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_otANrjCMrWJbwVpO-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -22,9 +22,6 @@
         <mxCell id="tUMAIfdiiLna2v-GMcnw-6" value="是否设置为 AP 热点模式" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="97.5" y="350" width="182.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tUMAIfdiiLna2v-GMcnw-7" value="设置端口号和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="93.5" y="650" width="188" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-8" value="建立手机端连接" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="116.5" y="740" width="172" height="49" as="geometry" />
         </mxCell>
@@ -57,9 +54,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tUMAIfdiiLna2v-GMcnw-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-7" target="tUMAIfdiiLna2v-GMcnw-8">
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="tUMAIfdiiLna2v-GMcnw-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="202.5" y="509" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-21" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="tUMAIfdiiLna2v-GMcnw-9" target="tUMAIfdiiLna2v-GMcnw-10">

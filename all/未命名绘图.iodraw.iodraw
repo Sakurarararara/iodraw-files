@@ -20,16 +20,16 @@
           <mxGeometry x="124" y="526.5" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-6" value="延时等待温湿度转换" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="98" y="620" width="174" height="49" as="geometry" />
+          <mxGeometry x="100" y="620" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-7" value="数据位判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="126" y="723.5" width="129" height="129" as="geometry" />
+          <mxGeometry x="124" y="710" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-8" value="发出读操作" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="148" y="910" width="110" height="49" as="geometry" />
+          <mxGeometry x="143" y="870" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-9" value="合并, 算出温湿度数值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="98" y="1040" width="185" height="49" as="geometry" />
+          <mxGeometry x="105.5" y="970" width="185" height="49" as="geometry" />
         </mxCell>
         <mxCell id="CexpNIQrSGJLgMi5OGzi-10" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="138" y="949.5" as="geometry" />
@@ -53,7 +53,7 @@
             <mxPoint x="190" y="625.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CexpNIQrSGJLgMi5OGzi-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="CexpNIQrSGJLgMi5OGzi-7">
+        <mxCell id="CexpNIQrSGJLgMi5OGzi-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="CexpNIQrSGJLgMi5OGzi-6" target="CexpNIQrSGJLgMi5OGzi-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="190" y="674.5" as="sourcePoint" />

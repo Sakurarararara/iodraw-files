@@ -19,7 +19,7 @@
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-6" value="延时等待温湿度转换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="105.5" y="539" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="UztdvDQMizkSLh4Cg0Hq-7" value="数据位判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="UztdvDQMizkSLh4Cg0Hq-7" value="数据位判断完？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="640" width="177" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-8" value="发出读操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -118,7 +118,7 @@
         </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="710" as="sourcePoint" />
+            <mxPoint x="80" y="690" as="sourcePoint" />
             <mxPoint x="80" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>

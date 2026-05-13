@@ -7,11 +7,14 @@
         <mxCell id="wqFsREqOBxKxBdCisBvE-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="180" width="76" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wqFsREqOBxKxBdCisBvE-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wqFsREqOBxKxBdCisBvE-1">
+        <mxCell id="wqFsREqOBxKxBdCisBvE-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wqFsREqOBxKxBdCisBvE-1" target="wqFsREqOBxKxBdCisBvE-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="332" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wqFsREqOBxKxBdCisBvE-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

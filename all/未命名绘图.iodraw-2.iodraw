@@ -16,9 +16,6 @@
         <mxCell id="p5KyQhKAwKHs6iL1FUhb-6" value="将采集到的数据传输给单片机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="656" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="p5KyQhKAwKHs6iL1FUhb-7" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="118" y="772" width="55" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="p5KyQhKAwKHs6iL1FUhb-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p5KyQhKAwKHs6iL1FUhb-15" target="p5KyQhKAwKHs6iL1FUhb-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -32,21 +29,15 @@
             <mxPoint x="146" y="153" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p5KyQhKAwKHs6iL1FUhb-12" value="Y" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="p5KyQhKAwKHs6iL1FUhb-4" target="p5KyQhKAwKHs6iL1FUhb-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="140" y="520" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="p5KyQhKAwKHs6iL1FUhb-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="p5KyQhKAwKHs6iL1FUhb-5" target="p5KyQhKAwKHs6iL1FUhb-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p5KyQhKAwKHs6iL1FUhb-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="p5KyQhKAwKHs6iL1FUhb-6" target="p5KyQhKAwKHs6iL1FUhb-7">
+        <mxCell id="p5KyQhKAwKHs6iL1FUhb-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="1" source="p5KyQhKAwKHs6iL1FUhb-6" target="p5KyQhKAwKHs6iL1FUhb-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="146.04999999999995" y="772" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p5KyQhKAwKHs6iL1FUhb-15" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -60,6 +51,9 @@
             <mxPoint x="390" y="220" as="sourcePoint" />
             <mxPoint x="440" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="p5KyQhKAwKHs6iL1FUhb-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="86.04999999999995" y="742" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

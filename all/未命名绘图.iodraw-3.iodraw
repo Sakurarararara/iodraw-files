@@ -14,7 +14,7 @@
           <mxGeometry x="146" y="202" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-4" value="发出扫描命令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="124" y="394" width="156" height="49" as="geometry" />
+          <mxGeometry x="127.5" y="393.5" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-5" value="发出转换命令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="124" y="515" width="156" height="49" as="geometry" />
@@ -99,7 +99,7 @@
             <mxPoint x="200" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UztdvDQMizkSLh4Cg0Hq-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="UztdvDQMizkSLh4Cg0Hq-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UztdvDQMizkSLh4Cg0Hq-3" target="UztdvDQMizkSLh4Cg0Hq-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="440" y="370" as="targetPoint" />

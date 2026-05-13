@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="20" width="55" height="34" as="geometry" />
+          <mxGeometry x="178" y="20" width="55" height="34" as="geometry" />
         </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-2" value="初始化 DHT11" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="268" y="104" width="159" height="49" as="geometry" />
+          <mxGeometry x="126" y="104" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-3" value="应答脉冲?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="288" y="202" width="119" height="119" as="geometry" />
+          <mxGeometry x="146" y="202" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-4" value="发出扫描命令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="124" y="394" width="156" height="49" as="geometry" />
@@ -56,13 +56,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UztdvDQMizkSLh4Cg0Hq-18" value="N" style="curved=1;startArrow=none;endArrow=none;exitX=Infinity;exitY=Infinity;entryX=Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="UztdvDQMizkSLh4Cg0Hq-11" target="UztdvDQMizkSLh4Cg0Hq-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="330" y="479" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="UztdvDQMizkSLh4Cg0Hq-4" target="UztdvDQMizkSLh4Cg0Hq-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -78,25 +71,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UztdvDQMizkSLh4Cg0Hq-24" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.81;exitY=1;entryX=Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="1" source="UztdvDQMizkSLh4Cg0Hq-7" target="UztdvDQMizkSLh4Cg0Hq-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="266" y="877" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-25" value="N" style="curved=1;startArrow=none;endArrow=none;exitX=Infinity;exitY=Infinity;entryX=-Infinity;entryY=Infinity;rounded=0;" edge="1" parent="1" source="UztdvDQMizkSLh4Cg0Hq-13" target="UztdvDQMizkSLh4Cg0Hq-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="266" y="999" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UztdvDQMizkSLh4Cg0Hq-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-Infinity;exitY=Infinity;entryX=0.99;entryY=1;rounded=0;" edge="1" parent="1" source="UztdvDQMizkSLh4Cg0Hq-14" target="UztdvDQMizkSLh4Cg0Hq-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="302" y="999" />
-              <mxPoint x="302" y="877" />
             </Array>
           </mxGeometry>
         </mxCell>

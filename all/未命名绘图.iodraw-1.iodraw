@@ -10,7 +10,7 @@
         <mxCell id="xqCbraoSKVbHX2igorZQ-10" value="停止" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="368" y="1030" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="xqCbraoSKVbHX2igorZQ-2" edge="1">
+        <mxCell id="xqCbraoSKVbHX2igorZQ-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="xqCbraoSKVbHX2igorZQ-2" target="0Xw-pEOGwD9QejINY1Ox-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="339.5" y="290" as="targetPoint" />
@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0Xw-pEOGwD9QejINY1Ox-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="300" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

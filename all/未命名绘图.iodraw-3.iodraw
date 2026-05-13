@@ -8,7 +8,7 @@
           <mxGeometry x="126" y="104" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-3" value="应答脉冲?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="146" y="202" width="119" height="119" as="geometry" />
+          <mxGeometry x="146" y="202" width="119" height="108" as="geometry" />
         </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-4" value="发出扫描命令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="127.5" y="360" width="156" height="49" as="geometry" />

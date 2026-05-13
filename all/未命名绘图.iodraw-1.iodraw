@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xqCbraoSKVbHX2igorZQ-2" value="STM32 配置引脚" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="xqCbraoSKVbHX2igorZQ-2" value="初始化" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="252.5" y="200" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-3" value="定时器初始化" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">

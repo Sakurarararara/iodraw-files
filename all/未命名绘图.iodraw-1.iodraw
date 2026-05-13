@@ -10,51 +10,12 @@
         <mxCell id="xqCbraoSKVbHX2igorZQ-3" value="定时器初始化" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="261.5" y="290" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-8" value="正传 90 度" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="278" y="820" width="123" height="123" as="geometry" />
-        </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-10" value="停止" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="368" y="1030" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="xqCbraoSKVbHX2igorZQ-2" target="xqCbraoSKVbHX2igorZQ-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xqCbraoSKVbHX2igorZQ-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="627" y="820" as="sourcePoint" />
-            <mxPoint x="340" y="980" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="493.5" y="943" as="sourcePoint" />
-            <mxPoint x="494" y="980" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-34" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="337" y="980" as="sourcePoint" />
-            <mxPoint x="497" y="980" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="xqCbraoSKVbHX2igorZQ-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="417" y="980" as="sourcePoint" />
-            <mxPoint x="677" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xqCbraoSKVbHX2igorZQ-8" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="690" as="sourcePoint" />
-            <mxPoint x="180" y="880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-41" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="555" y="881.5" as="sourcePoint" />
-            <mxPoint x="620" y="882" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xqCbraoSKVbHX2igorZQ-44" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -74,12 +35,6 @@
             <mxPoint x="390" y="990" as="sourcePoint" />
             <mxPoint x="440" y="940" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-50" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="277" y="943" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xqCbraoSKVbHX2igorZQ-51" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="495" y="950" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

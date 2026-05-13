@@ -1,0 +1,136 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="kBL7x7goccfNbVj8cIte">
+    <mxGraphModel dx="1173" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="141.5" y="50" width="88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-2" value="STM32 配置引脚" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="100" y="110" width="169" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-3" value="WIFI 串口初始化" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="97.5" y="170" width="172.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-4" value="设置通信波特率为 115200" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="64" y="230" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-5" value="开启通信方式" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="108.5" y="290" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-6" value="是否设置为 AP 热点模式？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="90.75" y="350" width="182.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-7" value="设置端口号和密码" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="96.25" y="460" width="171.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-8" value="建立手机端连接" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="96.25" y="520" width="171.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-9" value="是否发送数据？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="106.5" y="580" width="151" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-10" value="发送完成" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="120.38" y="680" width="123.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="136.13" y="750" width="91.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="tUMAIfdiiLna2v-GMcnw-1" target="tUMAIfdiiLna2v-GMcnw-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="tUMAIfdiiLna2v-GMcnw-2" target="tUMAIfdiiLna2v-GMcnw-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="tUMAIfdiiLna2v-GMcnw-3" target="tUMAIfdiiLna2v-GMcnw-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="tUMAIfdiiLna2v-GMcnw-4" target="tUMAIfdiiLna2v-GMcnw-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="tUMAIfdiiLna2v-GMcnw-7" target="tUMAIfdiiLna2v-GMcnw-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="tUMAIfdiiLna2v-GMcnw-10" target="tUMAIfdiiLna2v-GMcnw-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tUMAIfdiiLna2v-GMcnw-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="340" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tUMAIfdiiLna2v-GMcnw-5" target="tUMAIfdiiLna2v-GMcnw-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tUMAIfdiiLna2v-GMcnw-6" target="tUMAIfdiiLna2v-GMcnw-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tUMAIfdiiLna2v-GMcnw-8" target="tUMAIfdiiLna2v-GMcnw-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tUMAIfdiiLna2v-GMcnw-9" target="tUMAIfdiiLna2v-GMcnw-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-30" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tUMAIfdiiLna2v-GMcnw-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="340" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-31" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="340" as="sourcePoint" />
+            <mxPoint x="340" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="340" as="sourcePoint" />
+            <mxPoint x="180" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-33" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="273.25" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-34" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-35" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-36" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120.38" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IIKrFPXzPn5Zp1AdnK2O-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

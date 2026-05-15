@@ -152,7 +152,7 @@
           <mxGeometry x="240" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-37" value="PB8=1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="430" y="670" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-38" value="PC13=1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="680" width="60" height="30" as="geometry" />

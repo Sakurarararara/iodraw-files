@@ -31,7 +31,7 @@
         <mxCell id="tUMAIfdiiLna2v-GMcnw-9" value="是否传输数据？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="106.5" y="580" width="151" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tUMAIfdiiLna2v-GMcnw-10" value="发送完成" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="tUMAIfdiiLna2v-GMcnw-10" value="数据传输" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="120.38" y="680" width="123.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-11" value="结束" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="1" vertex="1">

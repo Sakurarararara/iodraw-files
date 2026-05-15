@@ -116,13 +116,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-33" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="273.25" y="390" width="60" height="30" as="geometry" />
+          <mxGeometry x="273.25" y="390" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-34" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-35" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="267.75" y="580" width="60" height="30" as="geometry" />
+          <mxGeometry x="267.75" y="590" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tUMAIfdiiLna2v-GMcnw-36" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="141.5" y="640" width="60" height="30" as="geometry" />

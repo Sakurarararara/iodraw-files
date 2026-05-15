@@ -58,7 +58,7 @@
         <mxCell id="0Xw-pEOGwD9QejINY1Ox-10" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="430" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0Xw-pEOGwD9QejINY1Ox-11" value="反转" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0Xw-pEOGwD9QejINY1Ox-11" value="反转&lt;div&gt;柜门关闭&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="460" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0Xw-pEOGwD9QejINY1Ox-12" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">

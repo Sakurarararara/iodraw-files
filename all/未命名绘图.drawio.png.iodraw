@@ -31,8 +31,8 @@
         <mxCell id="uqbmvJYvhx11S4XHlpAx-10" value="计算当前电压值" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="75" y="940" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="uqbmvJYvhx11S4XHlpAx-11" value="将计算得到的数据传输给单片机" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="34" y="1015" width="308" height="66" as="geometry" />
+        <mxCell id="uqbmvJYvhx11S4XHlpAx-11" value="将计算得到的数据传输给单片机" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="6.5" y="1015" width="308" height="66" as="geometry" />
         </mxCell>
         <mxCell id="uqbmvJYvhx11S4XHlpAx-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;fontSize=21;" parent="1" source="uqbmvJYvhx11S4XHlpAx-25" target="uqbmvJYvhx11S4XHlpAx-2" edge="1">
           <mxGeometry relative="1" as="geometry">

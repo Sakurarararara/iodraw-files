@@ -5,13 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wqFsREqOBxKxBdCisBvE-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="292.5" y="110" width="76" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wqFsREqOBxKxBdCisBvE-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wqFsREqOBxKxBdCisBvE-1" target="wqFsREqOBxKxBdCisBvE-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="420" as="sourcePoint" />
-            <mxPoint x="332" y="260" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="292.5" y="10" width="76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-3" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="272" y="260" width="118" height="40" as="geometry" />
@@ -150,6 +144,9 @@
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-38" value="PC13=1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xH7_71UMupld-0Nyl_wB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

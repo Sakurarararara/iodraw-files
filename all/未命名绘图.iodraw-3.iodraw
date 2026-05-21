@@ -8,10 +8,10 @@
           <mxGeometry x="129" y="104" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-3" value="应答脉冲?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="146" y="202" width="119" height="118" as="geometry" />
+          <mxGeometry x="146" y="202" width="124" height="118" as="geometry" />
         </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-4" value="发出扫描命令" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="127.5" y="360" width="156" height="49" as="geometry" />
+          <mxGeometry x="129.5" y="360" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="UztdvDQMizkSLh4Cg0Hq-5" value="发出转换命令" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="129" y="450" width="156" height="49" as="geometry" />

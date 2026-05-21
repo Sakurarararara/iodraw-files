@@ -122,7 +122,7 @@
           <mxGeometry x="465.5" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-32" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="293.5" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-33" value="PB6=1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="770" width="60" height="30" as="geometry" />
@@ -142,10 +142,10 @@
         <mxCell id="xH7_71UMupld-0Nyl_wB-3" value="继电器闭合单片机相应引脚输出高电平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222" y="450" width="218" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xH7_71UMupld-0Nyl_wB-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xH7_71UMupld-0Nyl_wB-2" target="xH7_71UMupld-0Nyl_wB-3">
+        <mxCell id="xH7_71UMupld-0Nyl_wB-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xH7_71UMupld-0Nyl_wB-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="386.5" y="570" as="sourcePoint" />
-            <mxPoint x="436.5" y="520" as="targetPoint" />
+            <mxPoint x="344.5" y="390" as="sourcePoint" />
+            <mxPoint x="344.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xH7_71UMupld-0Nyl_wB-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xH7_71UMupld-0Nyl_wB-2">

@@ -146,7 +146,7 @@
           <mxGeometry x="550" y="780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xH7_71UMupld-0Nyl_wB-2" value="温湿度，光照强度是否超过阈值？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220.5" y="90" width="220" height="110" as="geometry" />
+          <mxGeometry x="222.5" y="90" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xH7_71UMupld-0Nyl_wB-3" value="继电器闭合单片机相应引脚输出高电平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222.5" y="240" width="218" height="70" as="geometry" />
@@ -172,7 +172,7 @@
         <mxCell id="xH7_71UMupld-0Nyl_wB-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xH7_71UMupld-0Nyl_wB-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="640" y="145" as="targetPoint" />
+            <mxPoint x="640" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

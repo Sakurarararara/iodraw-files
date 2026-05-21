@@ -20,7 +20,7 @@
           <mxGeometry x="80.5" y="498" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uqbmvJYvhx11S4XHlpAx-7" value="AD是否转换完毕?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="78.5" y="597" width="165" height="113" as="geometry" />
+          <mxGeometry x="70" y="590" width="173.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uqbmvJYvhx11S4XHlpAx-8" value="读取字节" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="98" y="790" width="124" height="49" as="geometry" />

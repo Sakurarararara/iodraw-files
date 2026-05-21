@@ -31,7 +31,7 @@
         <mxCell id="uqbmvJYvhx11S4XHlpAx-10" value="计算当前电压值" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="75" y="980" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="uqbmvJYvhx11S4XHlpAx-11" value="将计算得到的数据传输给单片机" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="uqbmvJYvhx11S4XHlpAx-11" value="将计算得到的数据传输给单片机" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="34" y="1070" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="uqbmvJYvhx11S4XHlpAx-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="uqbmvJYvhx11S4XHlpAx-25" target="uqbmvJYvhx11S4XHlpAx-2" edge="1">
@@ -70,7 +70,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uqbmvJYvhx11S4XHlpAx-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;rounded=0;fontSize=20;" parent="1" source="uqbmvJYvhx11S4XHlpAx-11" target="uqbmvJYvhx11S4XHlpAx-37" edge="1">
+        <mxCell id="uqbmvJYvhx11S4XHlpAx-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;rounded=0;fontSize=17;" parent="1" source="uqbmvJYvhx11S4XHlpAx-11" target="uqbmvJYvhx11S4XHlpAx-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="161" y="1190" as="targetPoint" />
@@ -115,7 +115,7 @@
             <mxPoint x="440" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uqbmvJYvhx11S4XHlpAx-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uqbmvJYvhx11S4XHlpAx-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="101" y="1160" width="119" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uqbmvJYvhx11S4XHlpAx-38" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">

@@ -26,10 +26,10 @@
           <mxGeometry x="98" y="760" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uqbmvJYvhx11S4XHlpAx-9" value="一位一位读取数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="67" y="890" width="188" height="49" as="geometry" />
+          <mxGeometry x="67" y="850" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uqbmvJYvhx11S4XHlpAx-10" value="计算当前电压值" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="75" y="980" width="172" height="49" as="geometry" />
+          <mxGeometry x="75" y="940" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uqbmvJYvhx11S4XHlpAx-11" value="将计算得到的数据传输给单片机" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="35" y="1070" width="252" height="66" as="geometry" />

@@ -40,7 +40,7 @@
             <mxPoint x="228" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqFsREqOBxKxBdCisBvE-15" value="风扇" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="wqFsREqOBxKxBdCisBvE-15" value="继电器IN2闭合&lt;div&gt;开启消毒&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="208" y="720" width="132" height="62" as="geometry" />
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" parent="1" target="wqFsREqOBxKxBdCisBvE-17" edge="1">

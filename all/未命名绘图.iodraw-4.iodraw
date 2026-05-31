@@ -49,7 +49,7 @@
             <mxPoint x="428" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqFsREqOBxKxBdCisBvE-17" value="加热片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="wqFsREqOBxKxBdCisBvE-17" value="继电器IN3闭合&lt;div&gt;开启加热&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="378" y="719" width="123" height="62" as="geometry" />
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" parent="1" target="wqFsREqOBxKxBdCisBvE-19" edge="1">

@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="E8ZP0vAPACxkDv_Elcnz">
-    <mxGraphModel dx="1380" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,31 +136,28 @@
         <mxCell id="wqFsREqOBxKxBdCisBvE-38" value="PC13=1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="550" y="780" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xH7_71UMupld-0Nyl_wB-2" value="温湿度，光照强度是否超过阈值？" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="xH7_71UMupld-0Nyl_wB-2" value="温湿度，光照强度是否超过阈值？" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="221" y="330" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="xH7_71UMupld-0Nyl_wB-3" value="继电器闭合单片机相应引脚输出高电平" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="222" y="490" width="218" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="xH7_71UMupld-0Nyl_wB-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="xH7_71UMupld-0Nyl_wB-2" target="xH7_71UMupld-0Nyl_wB-3">
+        <mxCell id="xH7_71UMupld-0Nyl_wB-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="xH7_71UMupld-0Nyl_wB-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="344.5" y="430" as="sourcePoint" />
-            <mxPoint x="344.5" y="490" as="targetPoint" />
+            <mxPoint x="331" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xH7_71UMupld-0Nyl_wB-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="xH7_71UMupld-0Nyl_wB-2">
+        <mxCell id="xH7_71UMupld-0Nyl_wB-8" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="xH7_71UMupld-0Nyl_wB-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="385.5" y="440" as="sourcePoint" />
             <mxPoint x="640" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xH7_71UMupld-0Nyl_wB-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="wqFsREqOBxKxBdCisBvE-1" target="wqFsREqOBxKxBdCisBvE-3">
+        <mxCell id="xH7_71UMupld-0Nyl_wB-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="wqFsREqOBxKxBdCisBvE-1" target="wqFsREqOBxKxBdCisBvE-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="390" as="sourcePoint" />
             <mxPoint x="460" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xH7_71UMupld-0Nyl_wB-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="wqFsREqOBxKxBdCisBvE-3" target="xH7_71UMupld-0Nyl_wB-2">
+        <mxCell id="xH7_71UMupld-0Nyl_wB-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="wqFsREqOBxKxBdCisBvE-3" target="xH7_71UMupld-0Nyl_wB-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="390" as="sourcePoint" />
             <mxPoint x="460" y="340" as="targetPoint" />

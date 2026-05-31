@@ -58,7 +58,7 @@
             <mxPoint x="538" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wqFsREqOBxKxBdCisBvE-19" value="照明灯" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="wqFsREqOBxKxBdCisBvE-19" value="继电器IN4闭合&lt;div&gt;打开灯光&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="508" y="720" width="130" height="61" as="geometry" />
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="wqFsREqOBxKxBdCisBvE-12" edge="1">

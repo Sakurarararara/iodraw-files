@@ -11,7 +11,7 @@
           <mxGeometry x="272.5" y="250" width="118" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-8" value="单片机哪个引脚输出高电平？" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="214" y="520" width="230" height="90" as="geometry" />
+          <mxGeometry x="216.5" y="521" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="wqFsREqOBxKxBdCisBvE-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

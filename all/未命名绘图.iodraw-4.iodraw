@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-17" value="加热片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="378" y="720" width="123" height="56" as="geometry" />
+          <mxGeometry x="378" y="719" width="123" height="62" as="geometry" />
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" parent="1" target="wqFsREqOBxKxBdCisBvE-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-19" value="照明灯" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="508" y="720" width="130" height="58" as="geometry" />
+          <mxGeometry x="508" y="720" width="130" height="61" as="geometry" />
         </mxCell>
         <mxCell id="wqFsREqOBxKxBdCisBvE-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="wqFsREqOBxKxBdCisBvE-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
